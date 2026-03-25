@@ -1,7 +1,5 @@
 # 01. AI 기초 실습 (1~3월)
 
-> 사내 교수(AI 생산성 & AI 언어) 포지션 지원을 위한 1년 준비 로드맵 - Phase 1
-
 ## 목표
 - Python 기초 및 AI 개발 환경 세팅 (Jupyter, HuggingFace 등)
 - OpenAI / Claude API 직접 호출 실습
@@ -25,4 +23,4 @@
 | **Phase 1** | 1~3월 | AI 기초 실습 (현재) |
 | Phase 2 | 4~6월 | RAG & LLM 파인튜닝 |
 | Phase 3 | 7~9월 | AI Agent 개발 |
-| Phase 4 | 10~12월 | 포트폴리오 & 지원 준비 |
+| Phase 4 | 10~12월 | 포트폴리오 |
